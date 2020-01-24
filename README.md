@@ -8,3 +8,5 @@ USB Type-C レセプタクルをブレークアウトする基板です。
 　電流は3Aまでのご利用を推奨します。  
    
 コネクタ ヒロセ電機株式会社 CX70M-24P1  
+
+![PCB](https://github.com/od1969/Type_C_HC_Breakout/blob/master/Type-C%20High%20Current%20Breakout.png)  
